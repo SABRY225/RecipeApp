@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RecipeApp/static/css/main.0b6b7979.css",
-    "main.js": "/RecipeApp/static/js/main.60064b5e.js",
+    "main.js": "/RecipeApp/static/js/main.257ed39f.js",
     "static/media/brand-icons.svg": "/RecipeApp/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/RecipeApp/static/media/icons.62d9dae4e0040e81c980.svg",
     "static/media/letsCook-background.jpg": "/RecipeApp/static/media/letsCook-background.fb290b7ac835aa1b3428.jpg",
@@ -22,10 +22,10 @@
     "static/media/outline-icons.woff2": "/RecipeApp/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/RecipeApp/index.html",
     "main.0b6b7979.css.map": "/RecipeApp/static/css/main.0b6b7979.css.map",
-    "main.60064b5e.js.map": "/RecipeApp/static/js/main.60064b5e.js.map"
+    "main.257ed39f.js.map": "/RecipeApp/static/js/main.257ed39f.js.map"
   },
   "entrypoints": [
     "static/css/main.0b6b7979.css",
-    "static/js/main.60064b5e.js"
+    "static/js/main.257ed39f.js"
   ]
 }
