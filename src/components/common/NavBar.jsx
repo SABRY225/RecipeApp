@@ -8,7 +8,7 @@ const NavBar = () => {
       <Menu.Item>
         <img src={logo} alt="logo" style={{ width: 60 }} />
       </Menu.Item>
-      <Menu.Item name="Home" as={Link} to="/" />
+      <Menu.Item name="Home" as={Link} to="" />
       <Menu.Item name="Recipes" as={Link} to="/recipes" />    
     
 
